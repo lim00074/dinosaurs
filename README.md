@@ -1,4 +1,3 @@
-test
-====
+# Dinosaurs
 
-dinosaurs information
+A website listing popular dinosaurs.
